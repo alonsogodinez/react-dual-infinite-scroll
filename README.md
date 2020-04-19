@@ -1,2 +1,2 @@
-# react-dual-infinite-scroll
+# REACT DUAL INFINITE SCROLL
 Another Infinite Scroll component, but allows dual and reverse scrolling
